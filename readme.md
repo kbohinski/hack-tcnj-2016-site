@@ -1,6 +1,6 @@
 HackTCNJ 2016 Site
 ==================
-![HackTCNJ 2016 Logo](https://github.com/kbohinski/hack-tcnj-2016-site/tree/master/WebContent/hackTcnj2016.png "HackTCNJ 2016 Logo")
+![HackTCNJ 2016 Logo](WebContent/hackTcnj2016.png)
 Our beautiful 2016 logo, designed by [@kerrinrin](https://twitter.com/kerrinrin)
 
 We wanted to make a nice site for hackers to register on.

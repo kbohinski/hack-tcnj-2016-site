@@ -1,0 +1,1 @@
+<?phprequire_once 'casConfig.php';phpCAS::forceAuthentication();$email = phpCAS::getUser();$email = $email . '@tcnj.edu';if ($email) {    session_start();    $_SESSION['tcnj'] =  $email;    header("Location: /register.php");    exit();} else {    header("Location: /register_start.php?not-found=true");    exit();}?>

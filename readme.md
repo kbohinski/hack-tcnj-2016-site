@@ -1,7 +1,7 @@
 HackTCNJ 2016 Site
 ==================
 ![HackTCNJ 2016 Logo](WebContent/hackTcnj2016.png)
-Our beautiful 2016 logo, designed by [@kerrinrin](https://twitter.com/kerrinrin)
+Our beautiful 2016 logo, designed by [Kerrin](https://kerrinrose.com) 
 
 We wanted to make a nice site for hackers to register on.
 
